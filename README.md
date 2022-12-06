@@ -6,4 +6,4 @@ My first repository
 3. Psycho Mob
 4. That time I got reincarnated as a slime
 5. Jujustsu Kaisen
-6
+
